@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-traffic {
+
+    width: 100vw;
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.traffic-h {
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center;
+    padding: 10px;
+}
+
+#stop-btn {
+    background-color: #1f1d41;
+    color: white;
+    border-radius: 8px;
+    width: 60px;
+    height: 35px;
+    border-width: 0px;
+    border-color: #cf1124;
+    font-family: Roboto;
+    margin: 20px;
+}
+
+#ready-btn {
+    background-color: #1f1d41;
+    color: white;
+    border-color: #f7c948;
+    font-family: Roboto;
+    border-radius: 8px;
+    width: 60px;
+    border-width: 0px;
+    height: 35px;
+    margin: 20px;
+}
+
+#go-btn {
+    background-color: #1f1d41;
+    color: white;
+    border-color: #199473;
+    font-family: Roboto;
+    border-radius: 8px;
+    width: 60px;
+    border-width: 0px;
+    height: 35px;
+    margin: 20px;
+}
+
+.lights-bg {
+    background-color: #1f1d41;
+    margin: 10px;
+    border-radius: 30px;
+    height: 250px;
+    width: 90px;
+}
+
+#stoplight {
+    background-color: #4b5069;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin: 10px;
+    margin: auto;
+}
+
+#readylight {
+    background-color: #4b5069;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin: 10px;
+    margin: auto;
+}
+
+#golight {
+    background-color: #4b5069;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin: 10px;
+    margin: auto;
+}
